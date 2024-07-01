@@ -1,0 +1,17 @@
+Host awsadjsgpl000d
+  HostName awsadjsgpl000d
+  User dsheng3
+  MACs hmac-sha2-512
+  IdentityFile ~/.ssh/id_rsa
+  Port 22
+
+
+Host 35.239.35.81
+    HostName 35.239.35.81
+    IdentityFile ~/.ssh/dannie-zenni-gc
+    User hudanyun_sheng
+
+Host bitbucket.org
+    AddKeysToAgent yes
+    IdentityFile ~/.ssh/bitbucket_work
+
