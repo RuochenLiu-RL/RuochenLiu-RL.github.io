@@ -91,15 +91,13 @@ redirect_from:
   * National Science Foundation, Localized Frontal Curing-Assisted 3D Printing of Thermosetting Polymers. Award number 1934120（56万美元）.
   * NSF, Decision-making, and Development of A 3D Printing-based Meniscus Transplantation System. Award No.1634858 (35万美元)
 
-
-
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
