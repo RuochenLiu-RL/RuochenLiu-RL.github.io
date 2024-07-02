@@ -60,7 +60,7 @@ redirect_from:
   2.	Shiren Wang, Ruochen Liu, Aolin Hou, Wei Li, and Jingjing Qiu. "Additive manufacturing apparatus with powder-integrated preceramic mixture and related methods. " Publication No. US 2023/0302724 A1. (2023). 
   3.	（Optioned）Peng Jiang, Ruochen Liu, Rao Fei, Wei Zhang, Sin-Yen Leo, Calen Leverant, Helena Jiang, Curtis Taylor, and Yifan Zhang. Anti-reflection Materials and Method of Making Anti-reflection Materials. International Publication: WO 2020/027871 A2 (2019) .
 
-学术会议及演讲
+<!-- 学术会议及演讲
 ======
 1.	Shiren Wang, Jae Kim, Ruochen Liu, Jingjing Qiu. Photoactive Nanocomposites-emulated Neuromorphic Intelligence. TMS Annual Meeting & Exhibition. 2024.
 2.	Ruochen Liu, Jingjing Qiu, Shiren Wang. Low Carbon Manufacturing of Multifunctional Ceramics. IMECE 2023. 
@@ -89,12 +89,12 @@ redirect_from:
 ======
 * 骨干成员: 
   * National Science Foundation, Localized Frontal Curing-Assisted 3D Printing of Thermosetting Polymers. Award number 1934120（56万美元）.
-  * NSF, Decision-making, and Development of A 3D Printing-based Meniscus Transplantation System. Award No.1634858 (35万美元)
+  * NSF, Decision-making, and Development of A 3D Printing-based Meniscus Transplantation System. Award No.1634858 (35万美元) -->
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+  <ul>{% for publication in site.publications reversed %}
+    <li>{{ publication.title }}, {{ publication.authors }}, {{ publication.venue }}, {{ publication.year }}</li>
   {% endfor %}</ul>
   
 <!-- Talks
