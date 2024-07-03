@@ -8,43 +8,34 @@ redirect_from:
 ---
 
 {% include base_path %}
-[下载我的简历](/files/2024-4-14刘若晨简历-full.doc)
+<!-- [下载我的简历](/files/2024-4-14刘若晨简历-full.doc)-->
 
 教育背景
 ======
-* 哲学博士 材料科学与工程 德州农工大学 (Texas A&M University), 卡城, 美国 2023年12月
-* 理学硕士 材料科学与工程 佛罗里达大学 (University of Florida), 盖恩斯维尔, 美国 2017年12月
-* 工学学士 材料科学与工程 郑州大学， 郑州，中国 2015年6月
+* 哲学博士 材料科学与工程 德州农工大学 (Texas A&M University), 卡城, 美国 2023年
+* 理学硕士 材料科学与工程 佛罗里达大学 (University of Florida), 盖恩斯维尔, 美国 2017年
+* 工学学士 材料科学与工程 郑州大学， 郑州，中国 2015年
 
 科研经历 
 ======
-* 德州农工大学, 卡城, 美国 2019-2023年12月
-  * 研究助理, 导师: Dr. Shiren Wang
-  * 博士研究方向：基于自持续反应的低碳制造 
-    * 创立聚合物辅助的自持续陶瓷化增材制造工艺
-    * 创立基于自持续反应的金属直接反应沉积制造工艺
-    * 实现前端固化辅助直写增材制造热固性环氧树脂/长纤复合材料
-    * 研究新工艺相关的原材料结构设计，加工工艺，打印件微结构与性能
-    * 多尺度模拟自持续反应热化学过程
-  * 其他课题：脑启发人工智能材料设计，制造以及其在类脑计算方面的应用
-* 佛罗里达大学, 盖恩斯维尔, 美国 2017-2018
-  * 研究助理, 导师: Dr. Christopher Batich, Dr. Peng Jiang
-  * 硕士研究课题：外场响应智能高分子复合材料
-    * 首次实现光响应形状记忆光子晶体的制造，研究制造过程、材料结构对其光响应行为的影响
+* 基于自持续反应的低碳制造 
+* 脑启发人工智能材料设计，制造以及其在类脑计算方面的应用
+* 外场响应智能高分子复合材料
+  
 
   
 科研成果
 ======
 第一作者论文（#同等贡献）
 ------
-1.	Ruochen Liu, Aolin Hou, Prashant Dhakal, Chongjie Gao, Jingjing Qiu, and Shiren Wang. "Energy-efficient rapid additive manufacturing of complex geometry ceramics." Journal of Cleaner Production (2024): 142122. (IF = 11.1)
-2.	Ruochen Liu, Aolin Hou, Jingjing Qiu, Shiren Wang, “Low-carbon manufacturing of Ti-Si-C ceramics using geopolymer binder-integrated reactive feedstocks.” ACS Sustainable Chemistry & Engineering (2024) 12(12), 4858-4866.(IF = 8.4)
-3.	Kim, Jae Gwang#, Ruochen Liu#, Prashant Dhakal, Aolin Hou, Chongjie Gao, Jingjing Qiu, Cory Merkel, Mark Zoran, and Shiren Wang. "Heterostimuli chemo-modulation of neuromorphic nanocomposites for time-, power-, and data-efficient machine learning." Matter (2024) 7(3), 1230-1214. (IF = 18.9)
-4.	Ruochen Liu, Chongjie Gao, Aolin Hou, and Shiren Wang. "Ni/Al foil-based reactive additive manufacturing with fast rate and high energy-efficiency." Journal of Materials Processing Technology (2023): 118167. (IF = 6.3)
-5.	Ruochen Liu#, Jae Gwang Kim#, Prashant Dhakal#, Aolin Hou, Cory Merkel, Shiren Wang, "Neuromorphic properties of flexible carbon nanotube/Polydimethylsiloxane nanocomposites. " Advanced Composites and Hybrid Materials (2023): 6(1), 1-11. (IF = 20.1, ESI高被引)
-6.	Zimeng Zhang#, Ruochen Liu#, Wei Li, Yuchen Liu, Haochen Luo, Li Zeng, Jingjing Qiu, and Shiren Wang. "Direct writing of continuous carbon fibers/epoxy thermoset composites with high-strength and low energy consumption." Additive Manufacturing (2021): 102348. (IF = 11)
-7.	Zimeng Zhang#, Ruochen Liu#, Wei Li, Yuchen Liu, Zhijian Pei, Jingjing Qiu, Shiren Wang, "Frontal polymerization-assisted 3D printing of short carbon fibers/dicyclopentadiene composites." Journal of Manufacturing Processes (2021): 71, 753-762. (IF = 6.2)
-8.	Zimeng Zhang#, Ruochen Liu#, Herman Zepeda, Li Zeng, Jingjing Qiu, and Shiren Wang. "3D printing super-strong hydrogel for artificial meniscus." ACS Applied Polymer Materials (2019): 1, 8, 2023-2032. (IF = 5.0).
+1.	**Ruochen Liu**, Aolin Hou, Prashant Dhakal, Chongjie Gao, Jingjing Qiu, and Shiren Wang. "Energy-efficient rapid additive manufacturing of complex geometry ceramics." Journal of Cleaner Production (2024): 142122. (IF = 11.1)
+2.	**Ruochen Liu**, Aolin Hou, Jingjing Qiu, Shiren Wang, “Low-carbon manufacturing of Ti-Si-C ceramics using geopolymer binder-integrated reactive feedstocks.” ACS Sustainable Chemistry & Engineering (2024) 12(12), 4858-4866.(IF = 8.4)
+3.	Kim, Jae Gwang#, **Ruochen Liu#**, Prashant Dhakal, Aolin Hou, Chongjie Gao, Jingjing Qiu, Cory Merkel, Mark Zoran, and Shiren Wang. "Heterostimuli chemo-modulation of neuromorphic nanocomposites for time-, power-, and data-efficient machine learning." Matter (2024) 7(3), 1230-1214. (IF = 18.9)
+4.	**Ruochen Liu**, Chongjie Gao, Aolin Hou, and Shiren Wang. "Ni/Al foil-based reactive additive manufacturing with fast rate and high energy-efficiency." Journal of Materials Processing Technology (2023): 118167. (IF = 6.3)
+5.	**Ruochen Liu#**, Jae Gwang Kim#, Prashant Dhakal#, Aolin Hou, Cory Merkel, Shiren Wang, "Neuromorphic properties of flexible carbon nanotube/Polydimethylsiloxane nanocomposites. " Advanced Composites and Hybrid Materials (2023): 6(1), 1-11. (IF = 20.1, ESI高被引)
+6.	Zimeng Zhang#, **Ruochen Liu#** Wei Li, Yuchen Liu, Haochen Luo, Li Zeng, Jingjing Qiu, and Shiren Wang. "Direct writing of continuous carbon fibers/epoxy thermoset composites with high-strength and low energy consumption." Additive Manufacturing (2021): 102348. (IF = 11)
+7.	Zimeng Zhang#, **Ruochen Liu#** Wei Li, Yuchen Liu, Zhijian Pei, Jingjing Qiu, Shiren Wang, "Frontal polymerization-assisted 3D printing of short carbon fibers/dicyclopentadiene composites." Journal of Manufacturing Processes (2021): 71, 753-762. (IF = 6.2)
+8.	Zimeng Zhang#, **Ruochen Liu#**, Herman Zepeda, Li Zeng, Jingjing Qiu, and Shiren Wang. "3D printing super-strong hydrogel for artificial meniscus." ACS Applied Polymer Materials (2019): 1, 8, 2023-2032. (IF = 5.0).
   
 其他已发表论文
 ------
@@ -57,7 +48,7 @@ redirect_from:
 15.	Yuchen Liu, Zimeng Zhang, Wei Li, Ruochen Liu, Jingjing Qiu, and Shiren Wang. "Water purification performance and energy consumption of gradient nanocomposite membranes." Composites Part B: Engineering 202 (2020): 108426
 16.	Wei Li, Jun Ma, Santiago Garcia, Chongjie Gao, Ruochen Liu, Jingjing Qiu, Feng Zhao, and Shiren Wang. "Semi-shell Janus Nanoparticle-Enabled pH-Responsive Rod-Shaped Assembly for Photothermal Therapy." ACS Applied Nano Materials (2022): 5, 1, 871–880.
 
-专利 （均为导师后第二发明人）
+专利 
 ------
 1.	Shiren Wang, Ruochen Liu, Chingjie Gao, and Aolin Hou. "Additive manufacturing feedstock production system for reactive wire and related methods. " Publication No. US 2023/0302512 A1. (2023). 
 2.	Shiren Wang, Ruochen Liu, Aolin Hou, Wei Li, and Jingjing Qiu. "Additive manufacturing apparatus with powder-integrated preceramic mixture and related methods. " Publication No. US 2023/0302724 A1. (2023). 
