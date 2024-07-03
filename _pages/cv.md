@@ -24,8 +24,9 @@ redirect_from:
   
 科研成果
 ======
-第一作者论文（\#同等贡献）
+第一作者论文（\# 同等贡献）
 ------
+
 1.	**Ruochen Liu**, Aolin Hou, Prashant Dhakal, Chongjie Gao, Jingjing Qiu, and Shiren Wang. "Energy-efficient rapid additive manufacturing of complex geometry ceramics." Journal of Cleaner Production (2024): 142122. (IF = 11.1)
 2.	**Ruochen Liu**, Aolin Hou, Jingjing Qiu, Shiren Wang, “Low-carbon manufacturing of Ti-Si-C ceramics using geopolymer binder-integrated reactive feedstocks.” ACS Sustainable Chemistry & Engineering (2024) 12(12), 4858-4866.(IF = 8.4)
 3.	Kim, Jae Gwang#, **Ruochen Liu#**, Prashant Dhakal, Aolin Hou, Chongjie Gao, Jingjing Qiu, Cory Merkel, Mark Zoran, and Shiren Wang. "Heterostimuli chemo-modulation of neuromorphic nanocomposites for time-, power-, and data-efficient machine learning." Matter (2024) 7(3), 1230-1214. (IF = 18.9)
@@ -81,7 +82,7 @@ redirect_from:
 ======
 * 骨干成员: 
   * National Science Foundation, Localized Frontal Curing-Assisted 3D Printing of Thermosetting Polymers. Award number 1934120（56万美元）.
-  * NSF, Decision-making, and Development of A 3D Printing-based Meniscus Transplantation System. Award No.1634858 (35万美元) -->
+  * NSF, Decision-making, and Development of A 3D Printing-based Meniscus Transplantation System. Award No.1634858 (35万美元)
 
 Publications
 ======
@@ -89,7 +90,7 @@ Publications
     <li>{{ publication.title }}, {{ publication.authors }}, {{ publication.venue }}, {{ publication.year }}</li>
   {% endfor %}</ul>
   
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
