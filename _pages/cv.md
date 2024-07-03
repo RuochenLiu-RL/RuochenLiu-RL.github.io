@@ -22,11 +22,9 @@ redirect_from:
 * 脑启发人工智能材料设计，制造以及其在类脑计算方面的应用
 * 外场响应智能高分子复合材料
   
-
-  
 科研成果
 ======
-第一作者论文（#同等贡献）
+第一作者论文（\#同等贡献）
 ------
 1.	**Ruochen Liu**, Aolin Hou, Prashant Dhakal, Chongjie Gao, Jingjing Qiu, and Shiren Wang. "Energy-efficient rapid additive manufacturing of complex geometry ceramics." Journal of Cleaner Production (2024): 142122. (IF = 11.1)
 2.	**Ruochen Liu**, Aolin Hou, Jingjing Qiu, Shiren Wang, “Low-carbon manufacturing of Ti-Si-C ceramics using geopolymer binder-integrated reactive feedstocks.” ACS Sustainable Chemistry & Engineering (2024) 12(12), 4858-4866.(IF = 8.4)
